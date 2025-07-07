@@ -3,8 +3,8 @@ import db from '../models/index.js';
 /**
  * @swagger
  * tags:
- *   name: Students
- *   description: Student management
+ *    name: Students
+ *    description: Student management
  */
 
 export const createStudent = async (req, res) => {
